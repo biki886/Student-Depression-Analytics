@@ -33,6 +33,3 @@ _To view data cleansing, EDA, modelling, evaluation, and deployment:_
 2) Github will automatically render the jupyter notebook file
 3) Review the python code, outputs, and data visualizations in the browser
 
-## Project Report
-
-For a comprehensive overview of the objectives, analysis, predictions, and recommendations, please refer to the full [Project Report](student_depression_project_report.pdf).
